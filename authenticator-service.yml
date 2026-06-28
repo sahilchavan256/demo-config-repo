@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/authenticator
+    username: root
+    password: Sahil@123
